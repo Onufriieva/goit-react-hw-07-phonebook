@@ -23,7 +23,7 @@ border-radius: 4px;
 `;
 
 export const LabelBox = styled.label`
-font-size: 36px;
+font-size: 24px;
 `;
 
 export const InputBox = styled.input`

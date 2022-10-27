@@ -1,13 +1,14 @@
 import styled from '@emotion/styled';
 
 export const ListContacts = styled.ul`
+// display: flex;
 list-style: none;
 padding: 0px;
 `;
 
 export const ButtonDel = styled.button`
 min-width: 100px;
-height: 40px;
+height: 20px;
 margin-left: 16px;
 font-size: 20px;
 background-color: rgb(24, 140, 232);

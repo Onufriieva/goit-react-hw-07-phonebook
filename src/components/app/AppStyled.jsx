@@ -9,7 +9,7 @@ align-items: flex-start;
 margin-left: auto;
 margin-right: auto;
 padding: 16px;
-font-size: 40px;
+font-size: 20px;
 color: #010101;
 `;
 
