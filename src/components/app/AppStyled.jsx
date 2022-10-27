@@ -15,10 +15,10 @@ color: #010101;
 
 export const TitleBox = styled.h1`
 margin: 0px;
-margin-bottom: 24px;
+margin-bottom: 8px;
 `;
 
 export const SecondaryTitleBox = styled.h2`
 margin: 0px;
-margin-bottom: 24px;
+margin-bottom: 8px;
 `;
