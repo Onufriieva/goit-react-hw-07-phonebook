@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { addContact } from '../../redux/operations';
-import { getContacts, getItems } from '../../redux/selectors';
+import { getItems } from '../../redux/selectors';
 import { FormBox, ButtonAdd, InputBox, LabelBox } from './FormStyled';
 
 
